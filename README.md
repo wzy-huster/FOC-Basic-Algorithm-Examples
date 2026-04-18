@@ -10,6 +10,8 @@ FOC基础算法例程
 
 MIT开源许可
 
+【PCB文件开源链接】
+https://oshwhub.com/hustrobocon-hardware-group/project_qhdqcoil
 
 FOC Basic Algorithm Examples
 
