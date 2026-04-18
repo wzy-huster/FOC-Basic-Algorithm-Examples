@@ -1,0 +1,38 @@
+# --- 编译生成的文件 ---
+*.o
+*.d
+*.lst
+*.crf
+*.htm
+*.dep
+*.map
+*.bak
+*.lnp
+*.iex
+*.sct
+*.scvd
+*.dbgconf
+
+# --- IDE 临时文件和配置 ---
+*.uvguix.*
+*.uvgui.*
+*.uvoptx
+.mxproject
+
+# --- 编译输出文件 ---
+*.axf
+*.bin
+*.hex
+*.elf
+
+# --- 调试器日志 ---
+JLinkLog.txt
+
+# --- 编译输出目录 (根据你的实际目录名调整) ---
+Debug/
+Release/
+Listings/
+Objects/
+build/
+.settings/
+*.launch
